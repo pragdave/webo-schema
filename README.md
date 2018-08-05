@@ -1,21 +1,10 @@
 # Schema
 
-**TODO: Add description**
+Maintain a consistent schema of hosts, nodes, applications, and
+processes in an Erlang cluster.
 
-## Installation
+We're part of the WebO monitoring system.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `schema` to your list of dependencies in `mix.exs`:
 
-```elixir
-def deps do
-  [
-    {:schema, "~> 0.1.0"}
-  ]
-end
-```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/schema](https://hexdocs.pm/schema).
-
+> See license.md for copyright and licensing information.
