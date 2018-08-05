@@ -7,4 +7,4 @@ We're part of the WebO monitoring system.
 
 
 
-> See license.md for copyright and licensing information.
+> See [license.md](license.md) for copyright and licensing information.
