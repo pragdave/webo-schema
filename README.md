@@ -1,4 +1,5 @@
-# Schema
+# Schema [![Build Status](https://travis-ci.org/pragdave/earmark.svg?branch=master)](https://travis-ci.org/pragdave/earmark)
+
 
 Maintain a consistent schema of hosts, nodes, applications, and
 processes in an Erlang cluster.
